@@ -1,0 +1,31 @@
+# General Ignores + IDE
+.DS_Store
+settings.xml
+WEB-INF
+.github
+
+# Engines + Database + CBFS + Secrets
+.env
+.engine/**
+.cbfs/**
+build/.db/**
+
+# logs + tests
+logs/**
+tests/results/**
+
+# npm
+**/node_modules/*
+npm-debug.log
+yarn-error.log
+
+## Ignored Dependencies
+/coldbox/**
+/testbox/**
+/modules/**
+.vscode/settings.json
+.vscode/tasks.json
+build/docker-compose.yml
+build/Dockerfile
+resources/**
+tests/**

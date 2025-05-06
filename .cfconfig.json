@@ -1,0 +1,44 @@
+{
+	"cacheDefaultObject":"coldbox",
+   	"debuggingDBEnabled":"true",
+	"debuggingEnabled":"true",
+    "debuggingReportExecutionTimes":false,
+    "disableInternalCFJavaComponents":false,
+	"requestTimeoutEnabled":true,
+	"requestTimeout":"0,0,5,0",
+	"robustExceptionEnabled":true,
+    "caches":{
+		"coldbox":{
+			"storage":"true",
+            "type":"RAM",
+            "custom":{
+				"timeToIdleSeconds":"1800",
+                "timeToLiveSeconds":"3600"
+            },
+            "class":"lucee.runtime.cache.ram.RamCache",
+            "readOnly":"false"
+        }
+    },
+	"datasources" : {
+		"sqlDemo":{
+			"allowSelect": true,
+			"blob": "true",
+			"class": "com.microsoft.jdbc.sqlserver.SQLServerDriver",
+			"clob": "false",
+			"connectionTimeout": "1",
+			"custom": "DATABASENAME=bldemo&sendStringParametersAsUnicode=true&SelectMethod=direct",
+			"database": "bldemo",
+			"dbdriver": "MSSQL",
+			"dsn": "jdbc:sqlserver://{host}:{port}",
+			"host": "localhost",
+			"metaCacheTimeout": "60000",
+			"password": "apppassword",
+			"port": "1433",
+			"sendStringParametersAsUnicode": "false",
+			"storage": "false",
+			"username": "appuser",
+			"validate": "false"
+		}
+	},
+	"whitespaceManagement":"white-space-pref"
+}

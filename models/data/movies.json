@@ -1,0 +1,2333 @@
+[
+	{
+	  "showId": 247747,
+	  "title": "Amar Akbar Anthony",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1977,
+		"rating": "TV-14",
+		"duration": {
+		  "minutes": "172",
+		  "seasons": ""
+		},
+		"dateAdded": "12/31/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Amitabh Bachchan",
+		  "Neetu Singh",
+		  "Nirupa Roy",
+		  "Parveen Babi",
+		  "Pran",
+		  "Rishi Kapoor",
+		  "Shabana Azmi",
+		  "Vinod Khanna"
+		],
+		"Directors": [
+		  "Manmohan Desai"
+		]
+	  }
+	},
+	{
+	  "showId": 269880,
+	  "title": "Bad Boys",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1995,
+		"rating": "R",
+		"duration": {
+		  "minutes": "119",
+		  "seasons": ""
+		},
+		"dateAdded": "10/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Emmanuel Xuereb",
+		  "Joe Pantoliano",
+		  "Julio Oscar Mechoso",
+		  "Martin Lawrence",
+		  "Michael Imperioli",
+		  "Nestor Serrano",
+		  "TÃ©a Leoni",
+		  "TchÃ©ky Karyo",
+		  "Theresa Randle",
+		  "Will Smith"
+		],
+		"Directors": [
+		  "Michael Bay"
+		]
+	  }
+	},
+	{
+	  "showId": 281550,
+	  "title": "La Bamba",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1987,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "109",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Music & Musicals",
+			"slug": "music-musicals"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Brian Setzer",
+		  "Danielle von Zerneck",
+		  "Elizabeth PeÃ±a",
+		  "Esai Morales",
+		  "Howard Huntsberry",
+		  "Joe Pantoliano",
+		  "Lou Diamond Phillips",
+		  "Marshall Crenshaw",
+		  "Rick Dees",
+		  "Rosanna DeSoto"
+		],
+		"Directors": [
+		  "Luis Valdez"
+		]
+	  }
+	},
+	{
+	  "showId": 284890,
+	  "title": "Barsaat",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1995,
+		"rating": "TV-PG",
+		"duration": {
+		  "minutes": "166",
+		  "seasons": ""
+		},
+		"dateAdded": "04/01/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "International Movies",
+			"slug": "international-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Music & Musicals",
+			"slug": "music-musicals"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Ashwin Kaushal",
+		  "Bobby Deol",
+		  "Danny Denzongpa",
+		  "Harish Patel",
+		  "Mukesh Khanna",
+		  "Raj Babbar",
+		  "Twinkle Khanna"
+		],
+		"Directors": [
+		  "Rajkumar Santoshi"
+		]
+	  }
+	},
+	{
+	  "showId": 292118,
+	  "title": "Beavis and Butt-head Do America",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "81",
+		  "seasons": ""
+		},
+		"dateAdded": "11/20/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bruce Willis",
+		  "Cloris Leachman",
+		  "David Letterman",
+		  "Demi Moore",
+		  "Eric Bogosian",
+		  "Jacqueline Barba",
+		  "Kristofor Brown",
+		  "Mike Judge",
+		  "Pamela Blair",
+		  "Robert Stack",
+		  "Tony Darling"
+		],
+		"Directors": [
+		  "Mike Judge"
+		]
+	  }
+	},
+	{
+	  "showId": 296682,
+	  "title": "Benji",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1974,
+		"rating": "G",
+		"duration": {
+		  "minutes": "86",
+		  "seasons": ""
+		},
+		"dateAdded": "03/06/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Benji",
+		  "Christopher Connelly",
+		  "Deborah Walley",
+		  "Edgar Buchanan",
+		  "Peter Breck",
+		  "Terry Carter"
+		],
+		"Directors": [
+		  "Joe Camp"
+		]
+	  }
+	},
+	{
+	  "showId": 347365,
+	  "title": "Candyman",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1992,
+		"rating": "R",
+		"duration": {
+		  "minutes": "99",
+		  "seasons": ""
+		},
+		"dateAdded": "10/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Horror Movies",
+			"slug": "horror-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "DeJuan Guy",
+		  "Kasi Lemmons",
+		  "Michael Culkin",
+		  "Stanley DeSantis",
+		  "Tony Todd",
+		  "Vanessa Williams",
+		  "Virginia Madsen",
+		  "Xander Berkeley"
+		],
+		"Directors": [
+		  "Bernard Rose"
+		]
+	  }
+	},
+	{
+	  "showId": 352989,
+	  "title": "Carrie",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1976,
+		"rating": "R",
+		"duration": {
+		  "minutes": "98",
+		  "seasons": ""
+		},
+		"dateAdded": "06/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Horror Movies",
+			"slug": "horror-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Amy Irving",
+		  "Betty Buckley",
+		  "Doug Cox",
+		  "Harry Gold",
+		  "John Travolta",
+		  "Michael Talbott",
+		  "Nancy Allen",
+		  "Noelle North",
+		  "P.J. Soles",
+		  "Piper Laurie",
+		  "Priscilla Pointer",
+		  "Sissy Spacek",
+		  "Stefan Gierasch",
+		  "Sydney Lassick",
+		  "William Katt"
+		],
+		"Directors": [
+		  "Brian De Palma"
+		]
+	  }
+	},
+	{
+	  "showId": 372195,
+	  "title": "Child's Play",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1988,
+		"rating": "R",
+		"duration": {
+		  "minutes": "87",
+		  "seasons": ""
+		},
+		"dateAdded": "12/31/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Horror Movies",
+			"slug": "horror-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Alan Wilder",
+		  "Alex Vincent",
+		  "Brad Dourif",
+		  "Catherine Hicks",
+		  "Chris Sarandon",
+		  "Dinah Manoff",
+		  "Jack Colvin",
+		  "Juan RamÃ­rez",
+		  "Neil Giuntoli",
+		  "Tommy Swerdlow"
+		],
+		"Directors": [
+		  "Tom Holland"
+		]
+	  }
+	},
+	{
+	  "showId": 374651,
+	  "title": "Chitty Chitty Bang Bang",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1968,
+		"rating": "G",
+		"duration": {
+		  "minutes": "146",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Adrian Hall",
+		  "Alexander DorÃ©",
+		  "Anna Quayle",
+		  "Barbara Windsor",
+		  "Benny Hill",
+		  "Bernard Spear",
+		  "Davy Kaye",
+		  "Dick Van Dyke",
+		  "Gert FrÃ¶be",
+		  "Heather Ripley",
+		  "James Robertson Justice",
+		  "Lionel Jeffries",
+		  "Robert Helpmann",
+		  "Sally Ann Howes",
+		  "Stanley Unwin"
+		],
+		"Directors": [
+		  "Ken Hughes"
+		]
+	  }
+	},
+	{
+	  "showId": 382650,
+	  "title": "Cleopatra Jones",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1973,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "89",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bernie Casey",
+		  "BrendaSykes",
+		  "Esther Rolle",
+		  "Shelley Winters",
+		  "Tamara Dobson"
+		],
+		"Directors": [
+		  "Jack Starrett"
+		]
+	  }
+	},
+	{
+	  "showId": 404067,
+	  "title": "The Craft",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "R",
+		"duration": {
+		  "minutes": "101",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Horror Movies",
+			"slug": "horror-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Thrillers",
+			"slug": "thrillers"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Assumpta Serna",
+		  "Breckin Meyer",
+		  "Christine Taylor",
+		  "Cliff De Young",
+		  "Fairuza Balk",
+		  "Nathaniel Marston",
+		  "Neve Campbell",
+		  "Rachel True",
+		  "Robin Tunney",
+		  "Skeet Ulrich"
+		],
+		"Directors": [
+		  "Andrew Fleming"
+		]
+	  }
+	},
+	{
+	  "showId": 408911,
+	  "title": "The Crow",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1994,
+		"rating": "R",
+		"duration": {
+		  "minutes": "102",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Sci-Fi & Fantasy",
+			"slug": "sci-fi-fantasy"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Angel David",
+		  "Anna Levine",
+		  "Bai Ling",
+		  "Brandon Lee",
+		  "David Patrick Kelly",
+		  "Ernie Hudson",
+		  "Jon Polito",
+		  "Laurence Mason",
+		  "Michael Massee",
+		  "Michael Wincott",
+		  "Rochelle Davis",
+		  "Sofia Shinas",
+		  "Tony Todd"
+		],
+		"Directors": [
+		  "Alex Proyas"
+		]
+	  }
+	},
+	{
+	  "showId": 419733,
+	  "title": "The Dark Crystal",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1982,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "93",
+		  "seasons": ""
+		},
+		"dateAdded": "05/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Billie Whitelaw",
+		  "Dave Goelz",
+		  "Frank Oz",
+		  "Jim Henson",
+		  "Joseph O'Conor",
+		  "Kathryn Mullen",
+		  "Lisa Maxwell",
+		  "Percy Edwards",
+		  "Stephen Garlick"
+		],
+		"Directors": [
+		  "Frank Oz",
+		  "Jim Henson"
+		]
+	  }
+	},
+	{
+	  "showId": 449931,
+	  "title": "Doctor Zhivago",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1965,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "200",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Romantic Movies",
+			"slug": "romantic-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Alec Guinness",
+		  "Geraldine Chaplin",
+		  "Jeffrey Rockland",
+		  "Julie Christie",
+		  "Omar Sharif",
+		  "Ralph Richardson",
+		  "Rod Steiger",
+		  "Siobhan McKenna",
+		  "Tom Courtenay"
+		],
+		"Directors": [
+		  "David Lean"
+		]
+	  }
+	},
+	{
+	  "showId": 484369,
+	  "title": "The Evil Dead",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1981,
+		"rating": "TV-MA",
+		"duration": {
+		  "minutes": "85",
+		  "seasons": ""
+		},
+		"dateAdded": "01/10/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Horror Movies",
+			"slug": "horror-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Betsy Baker",
+		  "Bill Vincent",
+		  "Bruce Campbell",
+		  "David Horton",
+		  "Ellen Sandweiss",
+		  "Ivan Raimi",
+		  "John Cameron",
+		  "Richard DeManincor",
+		  "Scott Spiegel",
+		  "Ted Raimi",
+		  "Theresa Tilly"
+		],
+		"Directors": [
+		  "Sam Raimi"
+		]
+	  }
+	},
+	{
+	  "showId": 485218,
+	  "title": "Executive Decision",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "R",
+		"duration": {
+		  "minutes": "133",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "BD Wong",
+		  "David Suchet",
+		  "Halle Berry",
+		  "Joe Morton",
+		  "John Leguizamo",
+		  "Kurt Russell",
+		  "Len Cariou",
+		  "Oliver Platt",
+		  "Steven Seagal",
+		  "Whip Hubley"
+		],
+		"Directors": [
+		  "Stuart Baird"
+		]
+	  }
+	},
+	{
+	  "showId": 498716,
+	  "title": "Ferris Bueller's Day Off",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1986,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "103",
+		  "seasons": ""
+		},
+		"dateAdded": "01/03/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Alan Ruck",
+		  "Ben Stein",
+		  "Charlie Sheen",
+		  "Cindy Pickett",
+		  "Del Close",
+		  "Edie McClurg",
+		  "Jeffrey Jones",
+		  "Jennifer Grey",
+		  "Kristy Swanson",
+		  "Lyman Ward",
+		  "Matthew Broderick",
+		  "Mia Sara"
+		],
+		"Directors": [
+		  "John Hughes"
+		]
+	  }
+	},
+	{
+	  "showId": 506464,
+	  "title": "The First Wives Club",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "103",
+		  "seasons": ""
+		},
+		"dateAdded": "11/20/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bette Midler",
+		  "Bronson Pinchot",
+		  "Dan Hedaya",
+		  "Diane Keaton",
+		  "Eileen Heckart",
+		  "Elizabeth Berkley",
+		  "Goldie Hawn",
+		  "Jennie Dundas",
+		  "Maggie Smith",
+		  "Marcia Gay Harden",
+		  "Rob Reiner",
+		  "Sarah Jessica Parker",
+		  "Stephen Collins",
+		  "Stockard Channing",
+		  "Victor Garber"
+		],
+		"Directors": [
+		  "Hugh WIlson"
+		]
+	  }
+	},
+	{
+	  "showId": 510854,
+	  "title": "The Flintstones",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1994,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "91",
+		  "seasons": ""
+		},
+		"dateAdded": "10/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Dann Florek",
+		  "Elizabeth Perkins",
+		  "Elizabeth Taylor",
+		  "Halle Berry",
+		  "Harvey Korman",
+		  "John Goodman",
+		  "Kyle MacLachlan",
+		  "Rick Moranis",
+		  "Rosie O'Donnell",
+		  "Sam Raimi"
+		],
+		"Directors": [
+		  "Brian Levant"
+		]
+	  }
+	},
+	{
+	  "showId": 516154,
+	  "title": "For the Love of Benji",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1977,
+		"rating": "G",
+		"duration": {
+		  "minutes": "84",
+		  "seasons": ""
+		},
+		"dateAdded": "03/06/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Allen Fiuzat",
+		  "Art Vasil",
+		  "Bridget Armstrong",
+		  "Cynthia Smith",
+		  "Dean Goss",
+		  "Ed Nelson",
+		  "Mihalis Lambrinos",
+		  "Patsy Garrett",
+		  "Peter Bowles",
+		  "Tony Alatis"
+		],
+		"Directors": [
+		  "Joe Camp"
+		]
+	  }
+	},
+	{
+	  "showId": 516788,
+	  "title": "Forbidden Planet",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1956,
+		"rating": "G",
+		"duration": {
+		  "minutes": "98",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Sci-Fi & Fantasy",
+			"slug": "sci-fi-fantasy"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Anne Francis",
+		  "Earl Holliman",
+		  "Jack Kelly",
+		  "James Drury",
+		  "Leslie Nielsen",
+		  "Walter Pidgeon",
+		  "Warren Stevens"
+		],
+		"Directors": [
+		  "Fred M. Wilcox"
+		]
+	  }
+	},
+	{
+	  "showId": 520489,
+	  "title": "Four Weddings and a Funeral",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1994,
+		"rating": "R",
+		"duration": {
+		  "minutes": "118",
+		  "seasons": ""
+		},
+		"dateAdded": "08/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "International Movies",
+			"slug": "international-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Andie MacDowell",
+		  "Anna Chancellor",
+		  "Charlotte Coleman",
+		  "Corin Redgrave",
+		  "David Bower",
+		  "David Haig",
+		  "Hugh Grant",
+		  "James Fleet",
+		  "John Hannah",
+		  "Kristin Scott Thomas",
+		  "Rowan Atkinson",
+		  "Simon Callow",
+		  "Sophie Thompson"
+		],
+		"Directors": [
+		  "Mike Newell"
+		]
+	  }
+	},
+	{
+	  "showId": 523650,
+	  "title": "Free Willy",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1993,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "112",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Children & Family Movies",
+			"slug": "children-family-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "August Schellenberg",
+		  "Danielle Harris",
+		  "Jason James Richter",
+		  "Jayne Atkinson",
+		  "Lori Petty",
+		  "Michael Bacall",
+		  "Michael Ironside",
+		  "Michael Madsen",
+		  "Mykelti Williamson",
+		  "Richard Riehle"
+		],
+		"Directors": [
+		  "Simon Wincer"
+		]
+	  }
+	},
+	{
+	  "showId": 542137,
+	  "title": "Gigi",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1958,
+		"rating": "G",
+		"duration": {
+		  "minutes": "115",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Music & Musicals",
+			"slug": "music-musicals"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Corinne Marchand",
+		  "Edwin Jerome",
+		  "Eva Gabor",
+		  "Hermione Gingold",
+		  "Isabel Jeans",
+		  "Jacques Bergerac",
+		  "John Abbott",
+		  "Leslie Caron",
+		  "Louis Jourdan",
+		  "Maurice Chevalier"
+		],
+		"Directors": [
+		  "Charles Walters",
+		  "Vincente Minnelli"
+		]
+	  }
+	},
+	{
+	  "showId": 569355,
+	  "title": "Hamburger Hill",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1987,
+		"rating": "R",
+		"duration": {
+		  "minutes": "110",
+		  "seasons": ""
+		},
+		"dateAdded": "11/23/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Anthony Barille",
+		  "Courtney B. Vance",
+		  "Daniel O'Shea",
+		  "Don Cheadle",
+		  "Don James",
+		  "Dylan McDermott",
+		  "Harry O'Reilly",
+		  "Michael A. Nickles",
+		  "Michael Boatman",
+		  "Michael Dolan",
+		  "Steven Weber",
+		  "Tegan West",
+		  "Tim Quill",
+		  "Tommy Swerdlow"
+		],
+		"Directors": [
+		  "John Irvin"
+		]
+	  }
+	},
+	{
+	  "showId": 607931,
+	  "title": "How to Make an American Quilt",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1995,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "116",
+		  "seasons": ""
+		},
+		"dateAdded": "04/01/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Romantic Movies",
+			"slug": "romantic-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Adam Baldwin",
+		  "Alfre Woodard",
+		  "Anne Bancroft",
+		  "Claire Danes",
+		  "Denis Arndt",
+		  "Dermot Mulroney",
+		  "Derrick O'Connor",
+		  "Ellen Burstyn",
+		  "Jared Leto",
+		  "Jean Simmons",
+		  "Joanna Going",
+		  "Johnathon Schaech",
+		  "Kaelynn Craddick",
+		  "Kate Capshaw",
+		  "Kate Nelligan",
+		  "Maya Angelou",
+		  "Rip Torn",
+		  "Samantha Mathis",
+		  "Sara Craddick",
+		  "Winona Ryder"
+		],
+		"Directors": [
+		  "Jocelyn Moorhouse"
+		]
+	  }
+	},
+	{
+	  "showId": 653673,
+	  "title": "Jimi Hendrix",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1973,
+		"rating": "R",
+		"duration": {
+		  "minutes": "102",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Documentaries",
+			"slug": "documentaries"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Music & Musicals",
+			"slug": "music-musicals"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Billy Cox",
+		  "Eric Clapton",
+		  "Jimi Hendrix"
+		],
+		"Directors": [
+		  "Joe Boyd"
+		]
+	  }
+	},
+	{
+	  "showId": 673843,
+	  "title": "Kingpin",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "114",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Sports Movies",
+			"slug": "sports-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bill Murray",
+		  "Chris Elliott",
+		  "Lin Shaye",
+		  "Randy Quaid",
+		  "Richard Tyson",
+		  "Vanessa Angel",
+		  "William Jordan",
+		  "Woody Harrelson"
+		],
+		"Directors": [
+		  "Bobby Farrelly",
+		  "Peter Farrelly"
+		]
+	  }
+	},
+	{
+	  "showId": 684847,
+	  "title": "The Last Boy Scout",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1991,
+		"rating": "R",
+		"duration": {
+		  "minutes": "105",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bruce McGill",
+		  "Bruce Willis",
+		  "Chelsea Field",
+		  "Damon Wayans",
+		  "Danielle Harris",
+		  "Halle Berry",
+		  "Noble Willingham",
+		  "Taylor Negron"
+		],
+		"Directors": [
+		  "Tony Scott"
+		]
+	  }
+	},
+	{
+	  "showId": 699257,
+	  "title": "Monty Python's Life of Brian",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1979,
+		"rating": "R",
+		"duration": {
+		  "minutes": "94",
+		  "seasons": ""
+		},
+		"dateAdded": "10/02/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Carol Cleveland",
+		  "Eric Idle",
+		  "Graham Chapman",
+		  "John Cleese",
+		  "Michael Palin",
+		  "Terence Bayler",
+		  "Terry Gilliam",
+		  "Terry Jones"
+		],
+		"Directors": [
+		  "Terry Jones"
+		]
+	  }
+	},
+	{
+	  "showId": 701346,
+	  "title": "Like Water for Chocolate",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1992,
+		"rating": "R",
+		"duration": {
+		  "minutes": "105",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "International Movies",
+			"slug": "international-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Ada Carrasco",
+		  "Claudette MaillÃ©",
+		  "Lumi Cavazos",
+		  "Marco Leonardi",
+		  "Mario IvÃ¡n MartÃ­nez",
+		  "Pilar Aranda",
+		  "Regina TornÃ©",
+		  "Yareli Arizmendi"
+		],
+		"Directors": [
+		  "Alfonso Arau"
+		]
+	  }
+	},
+	{
+	  "showId": 709163,
+	  "title": "Logan's Run",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1976,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "118",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Farrah Fawcett",
+		  "Gary Morgan",
+		  "Greg Lewis",
+		  "Jenny Agutter",
+		  "Michael York",
+		  "Peter Ustinov",
+		  "Randolph Roberts",
+		  "Richard Jordan",
+		  "Roscoe Lee Browne"
+		],
+		"Directors": [
+		  "Michael Anderson"
+		]
+	  }
+	},
+	{
+	  "showId": 709380,
+	  "title": "Lolita",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1962,
+		"rating": "R",
+		"duration": {
+		  "minutes": "153",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Romantic Movies",
+			"slug": "romantic-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Cec Linder",
+		  "Diana Decker",
+		  "Gary Cockrell",
+		  "James Mason",
+		  "Jerry Stovin",
+		  "Lois Maxwell",
+		  "Peter Sellers",
+		  "Shelley Winters",
+		  "Sue Lyon"
+		],
+		"Directors": [
+		  "Stanley Kubrick"
+		]
+	  }
+	},
+	{
+	  "showId": 771476,
+	  "title": "Monty Python and the Holy Grail",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1975,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "92",
+		  "seasons": ""
+		},
+		"dateAdded": "01/02/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Carol Cleveland",
+		  "Connie Booth",
+		  "Eric Idle",
+		  "Graham Chapman",
+		  "John Cleese",
+		  "Michael Palin",
+		  "Neil Innes",
+		  "Terry Gilliam",
+		  "Terry Jones"
+		],
+		"Directors": [
+		  "Terry Gilliam",
+		  "Terry Jones"
+		]
+	  }
+	},
+	{
+	  "showId": 786137,
+	  "title": "My Girl",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1991,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "102",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Ann Nelson",
+		  "Anna Chlumsky",
+		  "Anthony R. Jones",
+		  "Dan Aykroyd",
+		  "Griffin Dunne",
+		  "Jamie Lee Curtis",
+		  "Jane Hallaren",
+		  "Macaulay Culkin",
+		  "Peter Michael Goetz",
+		  "Richard Masur"
+		],
+		"Directors": [
+		  "Howard Zieff"
+		]
+	  }
+	},
+	{
+	  "showId": 793907,
+	  "title": "The Natural",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1984,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "138",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Sports Movies",
+			"slug": "sports-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Barbara Hershey",
+		  "Glenn Close",
+		  "Joe Don Baker",
+		  "John Finnegan",
+		  "Kim Basinger",
+		  "Richard Farnsworth",
+		  "Robert Duvall",
+		  "Robert Prosky",
+		  "Robert Redford",
+		  "Wilford Brimley"
+		],
+		"Directors": [
+		  "Barry Levinson"
+		]
+	  }
+	},
+	{
+	  "showId": 846071,
+	  "title": "Patriot Games",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1992,
+		"rating": "R",
+		"duration": {
+		  "minutes": "117",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2020"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Anne Archer",
+		  "Harrison Ford",
+		  "J.E. Freeman",
+		  "James Earl Jones",
+		  "James Fox",
+		  "Patrick Bergin",
+		  "Polly Walker",
+		  "Richard Harris",
+		  "Samuel L. Jackson",
+		  "Sean Bean",
+		  "Thora Birch"
+		],
+		"Directors": [
+		  "Phillip Noyce"
+		]
+	  }
+	},
+	{
+	  "showId": 848915,
+	  "title": "The Pelican Brief",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1993,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "141",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Thrillers",
+			"slug": "thrillers"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Denzel Washington",
+		  "Hume Cronyn",
+		  "James Sikking",
+		  "John Heard",
+		  "John Lithgow",
+		  "Julia Roberts",
+		  "Robert Culp",
+		  "Sam Shepard",
+		  "Stanley Tucci",
+		  "Tony Goldwyn",
+		  "William Atherton"
+		],
+		"Directors": [
+		  "Alan J. Pakula"
+		]
+	  }
+	},
+	{
+	  "showId": 855084,
+	  "title": "Philadelphia",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1993,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "126",
+		  "seasons": ""
+		},
+		"dateAdded": "07/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "LGBTQ Movies",
+			"slug": "lgbtq-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Antonio Banderas",
+		  "Charles Napier",
+		  "Denzel Washington",
+		  "Jason Robards",
+		  "Lisa Summerour",
+		  "Mary Steenburgen",
+		  "Obba BabatundÃ©",
+		  "Robert Ridgely",
+		  "Ron Vawter",
+		  "Tom Hanks"
+		],
+		"Directors": [
+		  "Jonathan Demme"
+		]
+	  }
+	},
+	{
+	  "showId": 873159,
+	  "title": "Primal Fear",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "R",
+		"duration": {
+		  "minutes": "131",
+		  "seasons": ""
+		},
+		"dateAdded": "12/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Thrillers",
+			"slug": "thrillers"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Alfre Woodard",
+		  "Andre Braugher",
+		  "Edward Norton",
+		  "Frances McDormand",
+		  "Joe Spano",
+		  "John Mahoney",
+		  "Kenneth Tigar",
+		  "Laura Linney",
+		  "Maura Tierney",
+		  "Richard Gere",
+		  "Stanley Anderson",
+		  "Steven Bauer",
+		  "Terry O'Quinn",
+		  "Tony Plana"
+		],
+		"Directors": [
+		  "Gregory Hoblit"
+		]
+	  }
+	},
+	{
+	  "showId": 880640,
+	  "title": "Pulp Fiction",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1994,
+		"rating": "R",
+		"duration": {
+		  "minutes": "154",
+		  "seasons": ""
+		},
+		"dateAdded": "01/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Amanda Plummer",
+		  "Bruce Willis",
+		  "Christopher Walken",
+		  "Eric Stoltz",
+		  "Harvey Keitel",
+		  "John Travolta",
+		  "Maria de Medeiros",
+		  "Rosanna Arquette",
+		  "Samuel L. Jackson",
+		  "Tim Roth",
+		  "Uma Thurman",
+		  "Ving Rhames"
+		],
+		"Directors": [
+		  "Quentin Tarantino"
+		]
+	  }
+	},
+	{
+	  "showId": 896678,
+	  "title": "Red Dawn",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1984,
+		"rating": "PG-13",
+		"duration": {
+		  "minutes": "114",
+		  "seasons": ""
+		},
+		"dateAdded": "12/31/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Cult Movies",
+			"slug": "cult-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Ben Johnson",
+		  "Brad Savage",
+		  "C. Thomas Howell",
+		  "Charlie Sheen",
+		  "Darren Dalton",
+		  "Doug Toby",
+		  "Harry Dean Stanton",
+		  "Jennifer Grey",
+		  "Lea Thompson",
+		  "Patrick Swayze"
+		],
+		"Directors": [
+		  "John Milius"
+		]
+	  }
+	},
+	{
+	  "showId": 907090,
+	  "title": "Richard Pryor: Live in Concert",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1979,
+		"rating": "TV-MA",
+		"duration": {
+		  "minutes": "79",
+		  "seasons": ""
+		},
+		"dateAdded": "12/01/2016"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Stand-Up Comedy",
+			"slug": "stand-up-comedy"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Richard Pryor"
+		],
+		"Directors": [
+		  "Jeff Margolis"
+		]
+	  }
+	},
+	{
+	  "showId": 915927,
+	  "title": "Rocky",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1976,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "120",
+		  "seasons": ""
+		},
+		"dateAdded": "08/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Bill Baldwin",
+		  "Burgess Meredith",
+		  "Burt Young",
+		  "Carl Weathers",
+		  "Jimmy Gambina",
+		  "Joe Spinell",
+		  "Sylvester Stallone",
+		  "Talia Shire",
+		  "Thayer David"
+		],
+		"Directors": [
+		  "John G. Avildsen"
+		]
+	  }
+	},
+	{
+	  "showId": 916043,
+	  "title": "Rocky II",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1979,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "119",
+		  "seasons": ""
+		},
+		"dateAdded": "08/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Sports Movies",
+			"slug": "sports-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Burgess Meredith",
+		  "Burt Young",
+		  "Carl Weathers",
+		  "Joe Spinell",
+		  "John Pleshette",
+		  "Leonard Gaines",
+		  "Sylvester Stallone",
+		  "Sylvia Meals",
+		  "Talia Shire",
+		  "Tony Burton"
+		],
+		"Directors": [
+		  "Sylvester Stallone"
+		]
+	  }
+	},
+	{
+	  "showId": 916061,
+	  "title": "Rocky IV",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1985,
+		"rating": "PG",
+		"duration": {
+		  "minutes": "92",
+		  "seasons": ""
+		},
+		"dateAdded": "08/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Sports Movies",
+			"slug": "sports-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Brigitte Nielsen",
+		  "Burt Young",
+		  "Carl Weathers",
+		  "Dolph Lundgren",
+		  "Michael Pataki",
+		  "Sylvester Stallone",
+		  "Talia Shire",
+		  "Tony Burton"
+		],
+		"Directors": [
+		  "Sylvester Stallone"
+		]
+	  }
+	},
+	{
+	  "showId": 923574,
+	  "title": "Rumble in the Bronx",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1995,
+		"rating": "R",
+		"duration": {
+		  "minutes": "89",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Action & Adventure",
+			"slug": "action-adventure"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Comedies",
+			"slug": "comedies"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "International Movies",
+			"slug": "international-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Ailen Sit",
+		  "Anita Mui",
+		  "Bill Tung",
+		  "FranÃ§oise Yip",
+		  "Garvin Cross",
+		  "Jackie Chan",
+		  "Marc Akerstream",
+		  "Morgan Lam"
+		],
+		"Directors": [
+		  "Stanley Tong"
+		]
+	  }
+	},
+	{
+	  "showId": 973861,
+	  "title": "Sling Blade",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1996,
+		"rating": "R",
+		"duration": {
+		  "minutes": "135",
+		  "seasons": ""
+		},
+		"dateAdded": "11/01/2019"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Independent Movies",
+			"slug": "independent-movies"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Billy Bob Thornton",
+		  "Brent Briscoe",
+		  "Dwight Yoakam",
+		  "J.T. Walsh",
+		  "James Hampton",
+		  "John Ritter",
+		  "Lucas Black",
+		  "Natalie Canerday",
+		  "Rick Dial",
+		  "Robert Duvall"
+		],
+		"Directors": [
+		  "Billy Bob Thornton"
+		]
+	  }
+	},
+	{
+	  "showId": 1005494,
+	  "title": "The Stranger",
+	  "type": "Movie",
+	  "meta": {
+		"Release Year": 1946,
+		"rating": "TV-PG",
+		"duration": {
+		  "minutes": "94",
+		  "seasons": ""
+		},
+		"dateAdded": "07/19/2018"
+	  },
+	  "search": {
+		"categories": [
+		  {
+			"categoryID": 1,
+			"Category": "Classic Movies",
+			"slug": "classic-movies"
+		  },
+		  {
+			"categoryID": 2,
+			"Category": "Dramas",
+			"slug": "dramas"
+		  },
+		  {
+			"categoryID": 3,
+			"Category": "Thrillers",
+			"slug": "thrillers"
+		  }
+		]
+	  },
+	  "People": {
+		"Cast": [
+		  "Billy House",
+		  "Byron Keith",
+		  "Edward G. Robinson",
+		  "Konstantin Shayne",
+		  "Loretta Young",
+		  "Orson Welles",
+		  "Philip Merivale",
+		  "Richard Long"
+		],
+		"Directors": [
+		  "Orson Welles"
+		]
+	  }
+	}
+  ]

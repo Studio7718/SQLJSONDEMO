@@ -1,0 +1,8 @@
+{
+    "name":"SQLJSONDemo",
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
